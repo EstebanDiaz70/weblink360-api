@@ -1,7 +1,7 @@
 # WebLink360 API
 
 API REST del proyecto formativo **WebLink360** 
-SENA · Tecnología en Análisis y Desarrollo de Software · Evidencia GA7-220501096-AA5-EV03.
+SENA · ADSO Análisis y Desarrollo de Software · Evidencia GA7-220501096-AA5-EV03.
 
 **Tecnologías:** Node.js, Express, MySQL (mysql2), JWT, bcryptjs, Git.
 
